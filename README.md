@@ -2,7 +2,7 @@
 Today I Learned
 
 ### JavaScript
-- [Remove Duplicates from an Array](javascript/remove-duplicates-from-an-array.md)
+- [Remove Duplicates from an Array](javascript/remove-duplicates-from-array.md)
 
 
 ### UNIX

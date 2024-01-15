@@ -1,4 +1,4 @@
-# Remove Duplicates from an Array
+# Remove Duplicates from Array
 
 Quickly remove duplicates from an array by leveraging spread operator and the `Set` object.
 
