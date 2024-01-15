@@ -1,6 +1,10 @@
 # til
 Today I Learned
 
+### JavaScript
+- [Remove Duplicates from an Array](javascript/remove-duplicates-from-an-array.md)
+
+
 ### UNIX
 - [Generate a UUID](unix/generate-uuid.md)
 
